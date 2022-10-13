@@ -1,1 +1,1 @@
-<img src = "https://user-images.githubusercontent.com/67864472/195724472-4a66fb39-ffcf-497b-bd5f-4f71fb97ef54.gif"/>
+<img align="center" alt="Coding" width="400" src="https://wallpaperaccess.com/full/2471317.gif">
