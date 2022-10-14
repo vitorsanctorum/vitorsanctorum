@@ -1,1 +1,5 @@
-<img align="center" alt="Coding" width="400" src="https://wallpaperaccess.com/full/2471317.gif">
+<p align = "center">
+  <img width = "600px"src="https://wallpaperaccess.com/full/2471317.gif" alt="Animated_Gif"/>
+</p>
+
+
